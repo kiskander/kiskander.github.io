@@ -7,5 +7,5 @@ tags = ["codelabs","syntax highlighting"]
 min_version = "0.31"
 
 [author]
-  name = "nekocode"
+  name = "CiscoLearning"
   homepage = "https://github.com/CiscoLearning"
